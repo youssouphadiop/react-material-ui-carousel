@@ -26,7 +26,8 @@
   },
   "dependencies": {
     "auto-bind": "^2.1.1",
-    "react-swipeable": "^5.5.1"
+    "react-swipeable": "^5.5.1",
+    "styled-components": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
